@@ -6,8 +6,8 @@ Dieses Dokument beschreibt den Geobasisdatensatz
 
 Das Amt für Gewässer (AfG) ist zuständig für den Datensatz «Messstellen Wasserqualität (Gewässerüberwachung)». In diesem sind Standorte von Messstellen enthalten, welche Daten zur Gewässerqualität erhebenn. Die Datenerhebung erfolgt aufgrund einer Bundesaufgabe. Das Bundesamt für Umwelt (BAFU) hat für dieses Thema ein minimales Geodatenmodell erstellt. ÜBer dieses Geodatenmodell sind die folgenden Geobasisdatensätze beschrieben:
 
-- nationale Beobachtung Oberflächengewässerqualität (NAWA): Standorte der Messstationen (ID 133.3)
-- kantonale Erhebungen Gewässerzustand: Standorte der Messstationen (ID 134.1)
+- nationale Beobachtung Oberflächengewässerqualität (NAWA): Standorte der Messstationen (ID 133.3) <<allgemeines.adoc#doc-05,[5]>>
+- kantonale Erhebungen Gewässerzustand: Standorte der Messstationen (ID 134.1) <<allgemeines.adoc#doc-06,[6]>>
 
 === rechtliche Grundlagen
 Seit dem 1. Juli 2008 ist das Bundesgesetz über Geoinformation (GeoIG, SR 510.62) <<allgemeines.adoc#doc-01,[1]>> in Kraft. Am 1. Juli 2012 erfolgte die vollständige Inkraftsetzung des kantonalen Geoinformationsgesetzes (kGeoiG, SRSZ 214.110) <<allgemeines.adoc#doc-03,[3]>>. Es hat zum Ziel, verbindliche Vorgaben für die Erfassung, Modellierung und den Austausch von Geodaten festzulegen.
